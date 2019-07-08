@@ -1,0 +1,20 @@
+* Notes
+** Initial project setup
+*** Add project specific configurations
+    - add project linter
+    - add project build config and manifest
+*** Add koa application
+    - gotchas
+      fix implicit any koa sample code
+    - koa routes
+*** Add distributable container
+    - add pm config
+    - add docker build and compose files
+
+** Typescript basics
+*** Interfaces, Classes, Inheritance
+*** Module export/import
+
+* Further Readings
+** PM and ecosystem file
+** Koa internals
